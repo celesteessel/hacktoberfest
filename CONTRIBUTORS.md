@@ -839,3 +839,9 @@
 - Place: Cebu, Philippines
 - Bio: Full Stack Developer
 - Github: [John Rexter Flores](https://github.com/alldeads)
+
+#### Name: [CELESTE ESSEL](https://github.com/CelestEssel)
+- Place: Akron, OH, USA 
+- Bio: Apprentice who is currently studying Java at a coding bootcamp!
+- GitHub: [Celeste Essel](https://github.com/CelestEssel)
+
